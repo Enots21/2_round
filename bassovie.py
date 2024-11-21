@@ -27,4 +27,4 @@ print(2 * 2 + 2 == 2 * (2 + 2))
 #4st program
 sim = float('123.456')
 print(sim*10)
-print(int(sim*10)/10)
+print(int(sim*10)%10)
